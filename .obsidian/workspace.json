@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "1d300541b36b00f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7390ece47df9a7bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb2aee5e5e818c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7 Vol 1/Condition Of Root-Finding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Condition Of Root-Finding"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc0c57e97ffa133e",
+    "type": "split",
+    "children": [
+      {
+        "id": "192bef089d99966a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb7915c75b0efab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a8359415ce7e6e01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Theorem",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1ea3fa38eb80a1e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "859f2ffc56ff815e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf416d2524586be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c9d281ea3aae9c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 7 Vol 1/Inverse Function Theorem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d5a2f7743912dd3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 7 Vol 1/Inverse Function Theorem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e5fdd52adaf6da60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e6bc9b3a9008967",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3db6fa7f892c1bb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 7 Vol 1/Inverse Function Theorem.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cb2aee5e5e818c06",
+  "lastOpenFiles": [
+    "ACME Notes",
+    "Chapter 7 Vol 1/Contraction Mapping.md",
+    "Chapter 7 Vol 1/Absolute Condition Number.md",
+    "Chapter 7 Vol 1/Condition Number.md",
+    "Chapter 7 Vol 1/Condition Of Root-Finding.md",
+    "Chapter 7 Vol 1/Implicit Function Theorem.md",
+    "Old Definitions/Simple Root.md",
+    "Chapter 7 Vol 1/Relative Condition Number.md",
+    "Chapter 7 Vol 1/Newton's Method.md",
+    "Chapter 6 Vol 1/Fréchet Derivative.md",
+    "Chapter 7 Vol 1/Uniform Contraction Mapping.md",
+    "Old Definitions/Norm.md",
+    "Chapter 7 Vol 1/Inverse Function Theorem.md",
+    "Old Definitions/Continuously Differentiable.md",
+    "Chapter 6 Vol 1/Theorem 6.2.15.md",
+    "Chapter 6 Vol 1/Directional Derivative.md",
+    "Chapter 7 Vol 1/Rate of Convergence.md",
+    "Old Definitions/Metric.md",
+    "Old Definitions/Lipschitz.md",
+    "Untitled.canvas",
+    "2026-10-04.md",
+    "Old Definitions/Open.md",
+    "Old Definitions/Linearity.md",
+    "Old Definitions/Invertible.md",
+    "Old Definitions/Banach Space.md",
+    "Chapter 7 Vol 1/Untitled",
+    "direction.md",
+    "Chapter 7 Vol 1",
+    "Old Definitions/Continuous.md",
+    "Untitled.base",
+    "Old Definitions",
+    "Chapter 6 Vol 1",
+    "desktop.ini"
+  ]
+}
