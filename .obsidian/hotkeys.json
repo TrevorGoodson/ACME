@@ -69,5 +69,14 @@
       ],
       "key": "1"
     }
+  ],
+  "editor:insert-link": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
   ]
 }

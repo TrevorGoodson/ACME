@@ -10,5 +10,5 @@ $\hat \kappa (x)$ is the [[Absolute Condition Number]] of $f$ at $x$
 ###### Definition
 The relative condition number of $f$ at $x$ is
 $$
-\kappa(x) = \lim_{\delta \to 0^+} \sup_{||h|| \lt \delta} \left( \frac{||f(x + h) - f(x)||}{||h||} \bigg/ \frac{||h||}{||x||} \right) = \frac{\hat \kappa (x)}{||f(x)||/||x||}
+\kappa(x) = \lim_{\delta \to 0^+} \sup_{||h|| \lt \delta} \left( \frac{||f(x + h) - f(x)||}{||h||} \bigg/ \frac{||h||}{||x||} \right) = \frac{||x||}{||f(x)||} \hat \kappa (x)
 $$

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 7 Vol 1/Condition Number of How a Root Changes.md",
+                "file": "ACME Volume 1/Ch. 3 Inner Product Spaces/Induced Matrix Norm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Condition Number of How a Root Changes"
+              "title": "Induced Matrix Norm"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 268.16668701171875
   },
   "right": {
     "id": "859f2ffc56ff815e",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 7 Vol 1/Inverse Function Theorem.md",
+                "file": "ACME Volume 1/Ch. 3 Inner Product Spaces/Induced Matrix Norm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +170,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,38 +190,42 @@
   },
   "active": "cb2aee5e5e818c06",
   "lastOpenFiles": [
-    "Chapter 7 Vol 1/Relative Condition Number.md",
-    "Chapter 7 Vol 1/Condition Number of How a Root Changes.md",
+    "Unsorted/p-norm.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/Induced Matrix Norm.md",
+    "Math 341/Chapter 1/Supremum.md",
+    "Unsorted/Norm.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/Orthogonal.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/Inner Product.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Vector.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces",
+    "ACME Volume 1/Ch. 5 Metric Space Topology/Metric.md",
+    "ACME Volume 1/Ch. 5 Metric Space Topology",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Value Decomposition.md",
+    "ACME Volume 1/Chapter 7/Absolute Condition Number.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory",
+    "ACME Volume 1",
+    "Math 341/Chapter 2/Limit.md",
+    "Math 341/Chapter 2",
+    "Math 341/Link to the Textbook.md",
+    "Math 341/Chapter 1/Infinum.md",
+    "Math 341/Chapter 1/Boundedness.md",
+    "Math 341/Chapter 1",
+    "Math 341/Untitled.md",
+    "Math 341",
+    "Math 341/Scalar Derivative.md",
+    "ACME Volume 1/Chapter 6/Fréchet Derivative.md",
+    "ACME Volume 1/Chapter 7/Relative Condition Number.md",
+    "ACME Volume 1/Chapter 7/Condition Number of How a Root Changes.md",
     "ACME Notes",
-    "Chapter 7 Vol 1/Contraction Mapping.md",
-    "Chapter 7 Vol 1/Absolute Condition Number.md",
-    "Chapter 7 Vol 1/Condition Number.md",
-    "Chapter 7 Vol 1/Implicit Function Theorem.md",
-    "Old Definitions/Simple Root.md",
-    "Chapter 7 Vol 1/Newton's Method.md",
-    "Chapter 6 Vol 1/Fréchet Derivative.md",
-    "Chapter 7 Vol 1/Uniform Contraction Mapping.md",
-    "Old Definitions/Norm.md",
-    "Chapter 7 Vol 1/Inverse Function Theorem.md",
-    "Old Definitions/Continuously Differentiable.md",
-    "Chapter 6 Vol 1/Theorem 6.2.15.md",
-    "Chapter 6 Vol 1/Directional Derivative.md",
-    "Chapter 7 Vol 1/Rate of Convergence.md",
-    "Old Definitions/Metric.md",
-    "Old Definitions/Lipschitz.md",
+    "ACME Volume 1/Chapter 7/Contraction Mapping.md",
+    "ACME Volume 1/Chapter 7/Condition Number.md",
+    "ACME Volume 1/Chapter 7/Implicit Function Theorem.md",
+    "Unsorted/Simple Root.md",
+    "ACME Volume 1/Chapter 7/Newton's Method.md",
+    "ACME Volume 1/Chapter 7/Uniform Contraction Mapping.md",
+    "ACME Volume 1/Chapter 7/Inverse Function Theorem.md",
     "Untitled.canvas",
-    "2026-10-04.md",
-    "Old Definitions/Open.md",
-    "Old Definitions/Linearity.md",
-    "Old Definitions/Invertible.md",
-    "Old Definitions/Banach Space.md",
     "Chapter 7 Vol 1/Untitled",
-    "direction.md",
-    "Chapter 7 Vol 1",
-    "Old Definitions/Continuous.md",
-    "Untitled.base",
-    "Old Definitions",
-    "Chapter 6 Vol 1",
-    "desktop.ini"
+    "ACME Volume 1/Chapter 7"
   ]
 }
