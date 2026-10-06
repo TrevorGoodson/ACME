@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 7 Vol 1/Condition Of Root-Finding.md",
+                "file": "Chapter 7 Vol 1/Condition Number of How a Root Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Condition Of Root-Finding"
+              "title": "Condition Number of How a Root Changes"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "859f2ffc56ff815e",
@@ -192,14 +191,14 @@
   },
   "active": "cb2aee5e5e818c06",
   "lastOpenFiles": [
+    "Chapter 7 Vol 1/Relative Condition Number.md",
+    "Chapter 7 Vol 1/Condition Number of How a Root Changes.md",
     "ACME Notes",
     "Chapter 7 Vol 1/Contraction Mapping.md",
     "Chapter 7 Vol 1/Absolute Condition Number.md",
     "Chapter 7 Vol 1/Condition Number.md",
-    "Chapter 7 Vol 1/Condition Of Root-Finding.md",
     "Chapter 7 Vol 1/Implicit Function Theorem.md",
     "Old Definitions/Simple Root.md",
-    "Chapter 7 Vol 1/Relative Condition Number.md",
     "Chapter 7 Vol 1/Newton's Method.md",
     "Chapter 6 Vol 1/Fréchet Derivative.md",
     "Chapter 7 Vol 1/Uniform Contraction Mapping.md",
