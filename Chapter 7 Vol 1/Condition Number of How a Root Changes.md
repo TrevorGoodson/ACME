@@ -1,17 +1,16 @@
-#Theorem
-Proposition 7.5.2
+#Theorem Proposition 7.5.2
 # Intuition
 This theorem essentially creates a small expression for the relative condition number of a function that returns the root of a polynomial where the input is one of the coefficients of that polynomial (think about wiggling the coefficient and watching a root of the polynomial wiggle). 
 
 The symbols are a bit confusing, so I'll take a stab at them here. Bold letters are functions (like $\mathbf P$), capital letters are vectors of length $n$, and lower case letters are scalars.
 
-$\mathbf P$ is a function that takes a list of coefficients and an $x$, then spits out the value of the polynomial defined by those coefficients at $x$.
+$\mathbf P$ is a function that takes a list of coefficients and an $x$, then spits out the value of the polynomial defined by those coefficients at $x$ ($\mathbf P$ stands for polynomial).
 
 $\mathbf P_B$ is a specific polynomial defined by the coefficients in $B$ (Essentially $P$ but you fix the list of polynomials and only take $x$ as an input). Pick a root of this polynomial and call it $z$.
 
 Now think of $\mathbf P_B$ and its root, $z$, as a starting place. Imagine how the root will move when you slightly change $B$, as in the coefficients that define $\mathbf P_B$. Some changes of $B$ will make the root disappear (think of a hump of the curve passing over the x-axis). The extent at which you can change $B$ but still has the "same" root defines a neighborhood around $B$. Call this neighborhood $\Omega$.
 
-$\mathbf R_\Omega$ is a function that takes in a list of coefficients (that fall within $\Omega$--so it still has the "same" root as $\mathbf P_B$) and returns that root.
+$\mathbf R_\Omega$ is a function that takes in a list of coefficients (that fall within $\Omega$--so it still has the "same" root as $\mathbf P_B$) and returns that root ($\mathbf R$ stands for root).
 
 Now pick a list of coefficients, $A$ that fall in $\Omega$. Now pick one coefficient out of that list, call it $a_i$. $\mathbf R_{A,i}$ is a function that has the same output as $\mathbf R_\Omega$--the root of polynomials close to $\mathbf P_B$. However, instead of changing every coefficient, you just change $a_i$. You can also think of it as $\mathbf R_\Omega$ restricted to a 1-dimentional slice of $\Omega$.
 
@@ -30,14 +29,14 @@ $A \in \Omega$
 $i \in \mathbb N$ such that $i \le n$
 $a_i \in A$ ($a_i$ is the $i$th elements of $A$)
 $b_i \in B$ ($b_i$ is the $i$th element of B)
-$\mathbf R_{A,i}: \mathbb F \to \mathbb F$ is defined by $\mathbf R_{A,i}(a_i') = \mathbf R_U(A + (a_i' - a_i)e_i)$
+$\mathbf R_{A,i}: \mathbb F \to \mathbb F$ is defined by $\mathbf R_{A,i}(a_i') = \mathbf R_\Omega(A + (a_i' - a_i)e_i)$
 $\kappa$ is the [[Relative Condition Number]] of $\mathbf R_{A,i}$
 ###### Assumptions
-$\mathbf R_U(B) = z$
-$\mathbf P(A, R_U(A)) = 0$ for all $A$.
+$\mathbf R_\Omega(B) = z$
+$\mathbf P(A, \mathbf R_\Omega(A)) = 0$ for all $A$.
 ###### Conclusions
 $\Omega, \mathbf R_\Omega$ exist such that $\mathbf R_\Omega$ is [[Continuously Differentiable]].
 Additionally, 
 $$
-\kappa (B,z) = \left | \frac{z^{i - 1}b_i}{\mathbf P_B'(z)} \right |
+\kappa (B,z) = \left | \frac{b_i z^{i - 1}}{\mathbf P_B'(z)} \right |
 $$
