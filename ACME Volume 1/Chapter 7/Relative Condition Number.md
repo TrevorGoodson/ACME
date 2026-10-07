@@ -12,3 +12,9 @@ The relative condition number of $f$ at $x$ is
 $$
 \kappa(x) = \lim_{\delta \to 0^+} \sup_{||h|| \lt \delta} \left( \frac{||f(x + h) - f(x)||}{||h||} \bigg/ \frac{||h||}{||x||} \right) = \frac{||x||}{||f(x)||} \hat \kappa (x)
 $$
+
+# Key Results
+- If $Y$ is a [[Banach Space]] and $X$ is an [[Open]] subset of a Banach space, then we have (D being the [[Fréchet Derivative]]):
+$$
+  \kappa(x) = \|x\| \frac{\| Df(x)\|}{\|f(x)\|}
+$$

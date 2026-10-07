@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACME Volume 1/Ch. 3 Inner Product Spaces/Induced Matrix Norm.md",
+                "file": "ACME Volume 1/Chapter 7/Relative Condition Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Induced Matrix Norm"
+              "title": "Relative Condition Number"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Theorem",
+                "query": "newto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.16668701171875
+    "width": 268.16668701171875,
+    "collapsed": true
   },
   "right": {
     "id": "859f2ffc56ff815e",
@@ -190,18 +191,26 @@
   },
   "active": "cb2aee5e5e818c06",
   "lastOpenFiles": [
-    "Unsorted/p-norm.md",
+    "ACME Volume 1/Chapter 7/Absolute Condition Number.md",
+    "ACME Volume 1/Chapter 7/Relative Condition Number.md",
+    "Unsorted/Simple Root.md",
+    "ACME Volume 1/Chapter 7/Proposition 7.5.2.md",
+    "ACME Volume 1/Chapter 7/Condition Number.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/Norm.md",
+    "Unsorted/Taylor's Theorem.md",
+    "ACME Volume 1/Chapter 7/Newton's Method.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Value.md",
+    "Unsorted/Eigenvalue.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Vector.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Value Decomposition.md",
     "ACME Volume 1/Ch. 3 Inner Product Spaces/Induced Matrix Norm.md",
+    "Unsorted/p-norm.md",
     "Math 341/Chapter 1/Supremum.md",
-    "Unsorted/Norm.md",
     "ACME Volume 1/Ch. 3 Inner Product Spaces/Orthogonal.md",
     "ACME Volume 1/Ch. 3 Inner Product Spaces/Inner Product.md",
-    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Vector.md",
     "ACME Volume 1/Ch. 3 Inner Product Spaces",
     "ACME Volume 1/Ch. 5 Metric Space Topology/Metric.md",
     "ACME Volume 1/Ch. 5 Metric Space Topology",
-    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Value Decomposition.md",
-    "ACME Volume 1/Chapter 7/Absolute Condition Number.md",
     "ACME Volume 1/Ch. 4 Spectral Theory",
     "ACME Volume 1",
     "Math 341/Chapter 2/Limit.md",
@@ -214,16 +223,8 @@
     "Math 341",
     "Math 341/Scalar Derivative.md",
     "ACME Volume 1/Chapter 6/Fréchet Derivative.md",
-    "ACME Volume 1/Chapter 7/Relative Condition Number.md",
-    "ACME Volume 1/Chapter 7/Condition Number of How a Root Changes.md",
     "ACME Notes",
     "ACME Volume 1/Chapter 7/Contraction Mapping.md",
-    "ACME Volume 1/Chapter 7/Condition Number.md",
-    "ACME Volume 1/Chapter 7/Implicit Function Theorem.md",
-    "Unsorted/Simple Root.md",
-    "ACME Volume 1/Chapter 7/Newton's Method.md",
-    "ACME Volume 1/Chapter 7/Uniform Contraction Mapping.md",
-    "ACME Volume 1/Chapter 7/Inverse Function Theorem.md",
     "Untitled.canvas",
     "Chapter 7 Vol 1/Untitled",
     "ACME Volume 1/Chapter 7"
