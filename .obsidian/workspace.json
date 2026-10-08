@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "7390ece47df9a7bf",
+        "id": "a358cac3a8c09bbb",
         "type": "tabs",
         "children": [
           {
-            "id": "cb2aee5e5e818c06",
+            "id": "5a4423b3f3b31f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACME Volume 1/Chapter 7/Relative Condition Number.md",
+                "file": "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Proposition 8.1.8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relative Condition Number"
+              "title": "Proposition 8.1.8"
+            }
+          },
+          {
+            "id": "81e9e17fa840cc75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Integral of a Step Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integral of a Step Function"
+            }
+          },
+          {
+            "id": "fb328a0248930dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Step Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Step Function"
             }
           }
         ]
@@ -55,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "newto",
+                "query": "tag:#Definitio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACME Volume 1/Ch. 3 Inner Product Spaces/Induced Matrix Norm.md",
+                "file": "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Proposition 8.1.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,44 +217,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb2aee5e5e818c06",
+  "active": "5a4423b3f3b31f02",
   "lastOpenFiles": [
-    "ACME Volume 1/Chapter 7/Absolute Condition Number.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/Bounded Linear Transformation.md",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Proposition 8.1.8.md",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Integral of a Step Function.md",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Step Function.md",
+    "Unsorted/Linearity.md",
+    "Math 341/Chapter 1/Boundedness.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/L-p Norm (Sup Norm).md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/Norm.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/Induced Matrix Norm.md",
+    "ACME Volume 1/Ch. 8 Integration I/Multivariable Banach-Valued Integral.md",
+    "ACME Volume 1/Ch. 8 Integration I/Measure.md",
+    "Unsorted/Closed.md",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Closed n-Interval.md",
+    "ACME Volume 1/Ch. 8 Integration I/Assorted.md",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Subdivision.md",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Indicator Function.md",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details",
+    "Unsorted/Cartesian Product.md",
+    "ACME Volume 1/Ch. 1 Abstract Vector Spaces/p-Integrability (L-p space).md",
+    "ACME Volume 1/Ch. 1 Abstract Vector Spaces/Vector Space.md",
+    "Unsorted/p-norm.md",
+    "ACME Volume 1/Ch. 1 Abstract Vector Spaces",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary Details/Regulated-Integrable Funtion.md",
+    "Unsorted/Subspace.md",
     "ACME Volume 1/Chapter 7/Relative Condition Number.md",
+    "ACME Volume 1/Ch. 8 Integration I",
+    "ACME Volume 1/Chapter 7/Absolute Condition Number.md",
     "Unsorted/Simple Root.md",
     "ACME Volume 1/Chapter 7/Proposition 7.5.2.md",
-    "ACME Volume 1/Chapter 7/Condition Number.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Norm.md",
-    "Unsorted/Taylor's Theorem.md",
-    "ACME Volume 1/Chapter 7/Newton's Method.md",
-    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Value.md",
-    "Unsorted/Eigenvalue.md",
-    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Vector.md",
-    "ACME Volume 1/Ch. 4 Spectral Theory/Singular Value Decomposition.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Induced Matrix Norm.md",
-    "Unsorted/p-norm.md",
-    "Math 341/Chapter 1/Supremum.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Orthogonal.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Inner Product.md",
     "ACME Volume 1/Ch. 3 Inner Product Spaces",
-    "ACME Volume 1/Ch. 5 Metric Space Topology/Metric.md",
     "ACME Volume 1/Ch. 5 Metric Space Topology",
     "ACME Volume 1/Ch. 4 Spectral Theory",
     "ACME Volume 1",
-    "Math 341/Chapter 2/Limit.md",
     "Math 341/Chapter 2",
-    "Math 341/Link to the Textbook.md",
-    "Math 341/Chapter 1/Infinum.md",
-    "Math 341/Chapter 1/Boundedness.md",
     "Math 341/Chapter 1",
-    "Math 341/Untitled.md",
     "Math 341",
-    "Math 341/Scalar Derivative.md",
-    "ACME Volume 1/Chapter 6/Fréchet Derivative.md",
-    "ACME Notes",
-    "ACME Volume 1/Chapter 7/Contraction Mapping.md",
-    "Untitled.canvas",
-    "Chapter 7 Vol 1/Untitled",
-    "ACME Volume 1/Chapter 7"
+    "Untitled.canvas"
   ]
 }
