@@ -2,6 +2,7 @@
 # Technical Definition
 ###### Declarations
 $A \subset \mathbb R$
+$B \subset \mathbb R_{\ge 0}$
 $a \in A$
 $b, c \in \mathbb R$
 
@@ -11,4 +12,4 @@ $A$ is bounded above if $b$ exists such that $a \le b$ for all $a \in A$. If so,
 
 $A$ is bounded below if $c$ exists such that $c \le a$ for all $a \in A$. If so, $c$ is a lower bound for $A$.
 
-**need to update this to support any metric space**
+The set $B$ is defined to be bounded if it has an upper bound.

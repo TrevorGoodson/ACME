@@ -1,5 +1,6 @@
 #Definition Definition 8.1.1
-# Closed n-Interval
+## Intuition
+An interval-like thing defined to work in higher dimensions. The dimension is noted $n$.
 ## Technical Definition
 ###### Declarations
 $n \in \mathbb N$
@@ -11,3 +12,4 @@ $$
 [a, b] = [a_1, b_1] \times \cdots \times [a_n, b_n]
 $$
 
+([[Cartesian Product]])

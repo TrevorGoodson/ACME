@@ -3,7 +3,7 @@
 ## Technical Details
 ###### Assumptions
 $X$ is a [[Banach Space]]
-$[a,b]$ is a [[Closed n-Interval]]
+$[a,b]$ is a [[n-Interval]]
 $\mathscr P$ is a [[Subdivision]] of $[a,b]$
 $I \in \mathscr P$
 $x_I \in X$ for each $I$
@@ -13,7 +13,7 @@ $$
 s = \sum_{I \in \mathscr P} x_I \mathbb 1_{R_I}
 $$
 ###### Definition
-The integral of a step function, denoted $\mathscr I(s)$ or $\int_{[a,b]} s$ is defined by
+The integral of a step function, denoted $\mathscr I(s)$ or $\int_{[a,b]} s$, is defined by
 $$
 \mathscr I(s) = \int_{[a,b]} s \ = \sum_{I \in \mathscr P} x_I \lambda (R_I)
 $$

@@ -15,5 +15,5 @@ $d$ is a metric of $X$ if it satisfies:
 If $d$ is a metric of $X$, then $(X, d)$ is a metric space
 
 # Key Results
-- Every [[Norm]] defines a metric ($||x-y||$), but not every metric can be defined by a norm
+- Every [[Norm]] defines a metric ($||x-y||$), but not every metric defines a norm
 - The distance function on $\mathbb R^2$ is a metric
