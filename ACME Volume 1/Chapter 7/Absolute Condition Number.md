@@ -8,7 +8,7 @@ $(X, \| \cdot \|_X), (Y, \| \cdot \|_Y)$ are [[Norm|normed]] [[Linearity|linear]
 $f:X \to Y$
 $x,y \in X$
 $\delta \in \mathbb R^+$
-$\lim$ is the [[Limit]]
+$\lim$ is the [[Math 341/Chapter 2/Limit]]
 $\sup$ is the [[Supremum]]
 
 ###### Definition
