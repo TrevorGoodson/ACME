@@ -13,10 +13,16 @@ $\subset$ is equivalent to $\subseteq$. Since this notation isn't as clear as $\
 $\subsetneq$ is used when equality is explicitly not allowed
 
 #### Other Operations
+$\langle \cdot, \cdot \rangle$ is an [[Inner Product]]
 $\| \cdot \|$ is the [[Norm]]
 $| x |$ is the absolute value of $x$ (if $x$ is a scalar) or it is the [[Determinant]] of $x$ (if $x$ is a matrix)
-$\lambda (A)$ is the [[Measure]] of $A$ (where $A$ is a set).
+$\lambda (A)$ is the [[Measure (Volume)]] of $A$ (where $A$ is a set).
 $(\cdot)^T$ is the [[Transpose]]
 $(\cdot)^H$ is the [[Hermitian]]
 $\bar X$ can either mean the [[Closed|closure]], [[Complex Conjugate]], or just used to make a new symbol (probably to indicate that $\bar X$ is linked to $X$, but are different). This one is heavily context dependent.
 $X \times Y$ is the [[Cartesian Product]] of $X$ and $Y$ (where $X$ and $Y$ are sets)
+$\min$ is the [[Minimum]]
+$\max$ is the [[Maximum]]
+$\text{argmin}$ is the [[Argument Minimizer]]
+$\text{argmax}$ is the [[Argument Maximizer]]
+

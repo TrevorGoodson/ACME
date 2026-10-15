@@ -1,0 +1,1 @@
+The image of a function is exactly what a function can output, nothing more

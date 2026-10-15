@@ -2,7 +2,7 @@
 ## Technical Details
 ###### Assumptions
 $f, g$ are functions that operate on the same domain and codomain
-$\lambda$ is the [[Measure]]
+$\lambda$ is the [[Measure (Volume)]]
 ###### Definition
 $f$ and $g$ are defined to be equal almost everywhere, denoted $f=g \ \text{a.e.}$ if
 $$

@@ -14,7 +14,6 @@ The measure of $R$, denoted $\lambda (R)$, is defined by
 $$
 \lambda (R) = \prod_{j=1}^n (b_j - a_j)
 $$
-
 # Measure Zero
 #Definition Definition 8.3.1
 ## Intuition

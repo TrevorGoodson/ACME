@@ -1,0 +1,1 @@
+$\| \cdot \|$ is the [[Norm]]
