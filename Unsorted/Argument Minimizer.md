@@ -6,10 +6,9 @@
 $X$ is any set
 $f:X \to \mathbb R$
 $Y \subset \mathbb R$ is the [[Image]] of $f$
-$x \in X$
+$x,y \in X$
 $\min$ is the [[Minimum]]
 ###### Definition
-$$
-\underset{X}{\text{argmin}}\ f(x) = \min(Y)
-$$
+The argument minimizer satisfies 
+$\underset{X}{\text{argmin}}\ f(x) = y$ such that $f(y) = \min(Y)$
 

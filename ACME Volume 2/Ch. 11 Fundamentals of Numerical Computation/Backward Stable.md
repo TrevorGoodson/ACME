@@ -8,9 +8,9 @@ $f$ is some function on $\mathbb F^n$
 $\tilde f$ is an algorithm for $f$
 $C \in \mathbb R^+$
 $\epsilon _{\text{machine}}$ is the [[Floating-Point Number|machine epsilon]]
-$\delta \in \mathbb F^n$ with $\tilde f(x) = f(x + \delta)$
+$\delta_x \in \mathbb F^n$ with $\tilde f(x) = f(x + \delta_x)$
 ###### Definition
-$\tilde f$ is defined as backward stable if $\delta$ exists such that
+$\tilde f$ is defined as backward stable if $C$ exists such that
 $$
-\frac{\| \delta \|}{\| x \|} \le C \epsilon_{\text{machine}}
+\frac{\| \delta_x \|}{\| x \|} \le C \epsilon_{\text{machine}}
 $$

@@ -1,6 +1,6 @@
 #Definition Definition 13.1.16
 ## Intuition
-$a$ sets the direction; everything in the hyperplane is [[Unsorted/Orthogonal|Orthogonal]] to it.
+$a$ sets the direction; everything in the hyperplane is [[ACME Volume 1/Ch. 3 Inner Product Spaces/Orthogonal|Orthogonal]] to it.
 $b$ is the "offset"
 
 ## Technical Details

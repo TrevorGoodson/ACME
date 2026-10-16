@@ -1,1 +1,1 @@
-A root of a polynomial where the derivative isn't 0
+A root of a polynomial (equals 0) where the derivative isn't 0

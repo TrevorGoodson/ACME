@@ -1,0 +1,1 @@
+A numeric approximation of a definite integral

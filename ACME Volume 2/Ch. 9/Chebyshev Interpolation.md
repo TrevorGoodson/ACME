@@ -27,6 +27,7 @@ $$
 
 ## Key Results
 - $T_n(\cos(t)) = \cos(nt)$ (Remark 9.3.2)
+- The chebyshev polynomials form an [[Orthonormal]] basis for the set of polynomials
 
 ---
 # Chebyshev Zeros and Extremizers
@@ -46,5 +47,4 @@ $$
 y_j = \cos \left( \frac{j\pi}{n} \right)
 $$
 ## Key Results
-
----
+- The chebyshev extremizers minimizes the [[Nodal Polynomial]], and thus the [[Interpolation Error]] (Follows from Theorem 9.4.4)
