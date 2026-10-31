@@ -4,7 +4,7 @@ A function that shrinks the distance between inputs. In other words, brings inpu
 
 # Technical Definition
 ###### Symbols
-$D$ is a [[Norm|normed]] [[Linearity|linear]] space (or a subset of one)
+$D$ is a [[Norm|normed]] [[Linear|linear]] space (or a subset of one)
 $x,y \in D$
 $f$ is a function $D \to D$
 $k \in [0,1)$

@@ -2,7 +2,7 @@
 It is how much the function is changing scaled to be proportional to the overall size of function
 # Technical Definition
 ###### Declarations
-$X, Y$ are [[Norm|normed]] [[Linearity|linear]] spaces
+$X, Y$ are [[Norm|normed]] [[Linear|linear]] spaces
 $f:X \to Y$
 $x,h \in X$
 $\delta \in \mathbb R$

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACME Volume 2/Ch. 9/Chebyshev Interpolation.md",
+                "file": "ACME Volume 1/Ch. 11 Complex Analysis/Cauchy's Integral Formula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chebyshev Interpolation"
-            }
-          },
-          {
-            "id": "ccff99690fccfeae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACME Volume 2/Ch. 9/Interpolation Error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interpolation Error"
+              "title": "Cauchy's Integral Formula"
             }
           }
         ]
@@ -69,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "l-p",
+                "query": "tag:#Definition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.16668701171875
   },
   "right": {
     "id": "859f2ffc56ff815e",
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACME Volume 2/Ch. 9/Chebyshev Interpolation.md",
+                "file": "ACME Volume 1/Ch. 11 Complex Analysis/Cauchy's Integral Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,44 +188,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "39510514b39c632c",
+  "active": "8cb7915c75b0efab",
   "lastOpenFiles": [
-    "ACME Volume 2/Ch. 9/Lagrange Interpolation.md",
-    "ACME Volume 2/Ch. 9/Legendre Polynomials.md",
-    "ACME Volume 2/Ch. 9/Barycentric Lagrange Interpolation.md",
-    "ACME Volume 2/Ch. 9/Chebyshev Interpolation.md",
-    "Orthonormal.md",
-    "ACME Volume 1/Orthonormal.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/L-p Norm (Sup Norm).md",
-    "ACME Volume 2/Ch. 9/Interpolation Error.md",
-    "ACME Volume 1/Ch. 1 Abstract Vector Spaces/p-Integrability (L-p space).md",
-    "ACME Volume 2/Ch. 11 Fundamentals of Numerical Computation/Stable.md",
-    "ACME Volume 2/Ch. 11 Fundamentals of Numerical Computation/Backward Stable.md",
-    "ACME Volume 2/Ch. 9/Gaussian Quadrature.md",
-    "ACME Volume 2/Ch. 9/Nodal Polynomial.md",
-    "ACME Volume 2/Ch. 13/Hyperplane.md",
-    "Unsorted/Orthogonal.md",
-    "Math 341/Math 341 Textbook.md",
-    "Math 290/Math 290 Textbook.md",
-    "Math 290/Equivalence Relation.md",
+    "ACME Volume 1/Ch. 10 Calculus on Manifolds/Simply Connected.md",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Cauchy's Integral Formula.md",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Contour.md",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Holomorphic.md",
+    "ACME Volume 2/Ch. 14/Lagrange First-Order Necessary Condition.md",
+    "ACME Volume 2/Ch. 14/Non-Linear Constrained Minimization Problem.md",
+    "Templates/z Non-Linear Constrained Minimization Problem Declaration.md",
+    "ACME Volume 2/Ch. 14/Regular Point.md",
     "Symbol Index.md",
-    "ACME Volume 2/Ch. 9/Quadrature.md",
-    "Unsorted/Subspace.md",
-    "Unsorted/Simple Root.md",
-    "Math 341/Unsorted/Continuously Differentiable.md",
-    "Templates/z Inner Product Declaration.md",
+    "Unsorted/Rank.md",
+    "ACME Volume 2/Ch. 14/Singular Point.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/L-p Space.md",
+    "ACME Volume 2/Ch. 14",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary/Step Function.md",
+    "ACME Volume 1/Ch. 3 Inner Product Spaces/p-norm.md",
+    "ACME Volume 1/Ch. 8 Integration I/Multivariable Banach-Valued Integral.md",
+    "ACME Volume 1/Ch. 1 Abstract Vector Spaces/p-Integrability (L-p space).md",
+    "Unsorted/Linear.md",
+    "ACME Volume 1/Ch. 8 Integration I/Diffeomorphism.md",
+    "ACME Volume 1/Orthonormal.md",
+    "ACME Volume 1/Ch. 8 Integration I/Auxiliary/Regulated-Integrable Function.md",
+    "Math 341/Unsorted/Closure.md",
+    "Math 341/Math 341 Textbook.md",
+    "Math 341/Closed.md",
+    "ACME Volume 1/Ch. 6 Differentiation/Derivative.md",
+    "ACME Volume 1/Ch. 6 Differentiation/Directional Derivative.md",
+    "ACME Volume 1/Ch. 6 Differentiation/Fréchet Derivative.md",
+    "ACME Volume 1/Ch. 10 Calculus on Manifolds",
+    "ACME Volume 1/Ch. 11 Complex Analysis",
     "Math 341/Unsorted",
-    "Unsorted/Transpose.md",
-    "Unsorted/Inner Product Space.md",
     "Math 290/Unsorted",
     "ACME Volume 2/Ch. 12 Unconstrained Optimization/Untitled",
     "ACME Volume 2/Ch. 11 Fundamentals of Numerical Computation/Auxiliary",
     "ACME Volume 2/Ch. 12 Unconstrained Optimization",
     "Templates/Symbol Declarations",
     "ACME Volume 2/Ch. 13/Auxiliary",
-    "Templates",
-    "ACME Volume 2/Ch. 13",
-    "ACME Volume 2/Ch. 9",
     "Untitled.canvas"
   ]
 }

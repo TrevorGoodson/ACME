@@ -13,7 +13,7 @@ $y_0 \in V_0 \subset V \subset Y$ where $V, V_0$ are open
 $k \ge 1$ is an integer
 $F: U \times V \to Z$ where F is $C^k$ ([[Continuously Differentiable]])
 $z_0 = F(x_0, y_0)$
-$D_2F(x_0, y_0)$ is a bounded [[Linearity|linear]] operator from $Y$ to $Z$ (boundedness/linearity guaranteed by the fact $F$ is $C^k$)
+$D_2F(x_0, y_0)$ is a bounded [[Linear|linear]] operator from $Y$ to $Z$ (boundedness/linearity guaranteed by the fact $F$ is $C^k$)
 $f:U_0 \to V_0$ where $F$ is $C^k$
 ###### Assumptions
 $D_2F(x_0, y_0)$ has a bounded [[Invertible|inverse]]

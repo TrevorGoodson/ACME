@@ -11,7 +11,7 @@ $f : U \to V$  such that $f(x_0) = y_0$
 $g:V_0 \to U_0$
 ###### Assumptions
 $f \in C^k$ ([[Continuously Differentiable]])
-$Df(x_0) \in \mathcal{B}(X;Y)$ (the [[Fréchet Derivative|derivative]] is bounded and [[Linearity|linear]]; follows from $f \in C^k$)
+$Df(x_0) \in \mathcal{B}(X;Y)$ (the [[Fréchet Derivative|derivative]] is bounded and [[Linear|linear]]; follows from $f \in C^k$)
 $Df(x_0)$ has a bounded [[Invertible|inverse]]
 
 ###### Conclusions

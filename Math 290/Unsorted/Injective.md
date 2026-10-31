@@ -1,0 +1,1 @@
+If every input maps to a unique output

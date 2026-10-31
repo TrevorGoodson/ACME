@@ -4,7 +4,7 @@ The maximum slope of a function at a point
 
 # Technical Definition
 ###### Declarations
-$(X, \| \cdot \|_X), (Y, \| \cdot \|_Y)$ are [[Norm|normed]] [[Linearity|linear]] spaces
+$(X, \| \cdot \|_X), (Y, \| \cdot \|_Y)$ are [[Norm|normed]] [[Linear|linear]] spaces
 $f:X \to Y$
 $x,y \in X$
 $\delta \in \mathbb R^+$

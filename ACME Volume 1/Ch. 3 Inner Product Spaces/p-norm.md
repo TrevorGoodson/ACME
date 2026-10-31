@@ -1,6 +1,6 @@
 #Definition Example 3.5.5
 A specific example of a [[Norm]]
-not to be confused with [[L-p Norm (Sup Norm)]]
+not to be confused with the L-p norm on the [[L-p Space]]
 ## Technical Details
 $p \in \mathbb N$
 $x$ is a vector (each element accessed by $x_i$)

@@ -3,7 +3,7 @@
 
 ## Technical Details
 ###### Assumptions
-$\cdot ^{-1}$ is the [[Inverse]]
+$(\cdot) ^{-1}$ is the [[Inverse]]
 $U,V \subset \mathbb R^n$
 $U,V$ are [[Open]]
 $\Psi : U \to V$ is the candidate for being a diffeomorphism

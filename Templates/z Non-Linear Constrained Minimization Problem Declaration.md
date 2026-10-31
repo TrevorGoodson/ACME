@@ -1,0 +1,1 @@
+$\Omega,\ f: \Omega \to \mathbb R,\ H: \Omega \to \mathbb R^{\mathscr l},\ G : \Omega \to \mathbb R^m,\ \mathscr F$ define the [[Non-Linear Constrained Minimization Problem]] in standard form

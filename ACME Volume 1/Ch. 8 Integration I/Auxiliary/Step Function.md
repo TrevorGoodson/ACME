@@ -33,4 +33,4 @@ for some $\mathscr P$
 Note
 
 ## Key Results
-- The set of all step functions, denoted $S([a, b]; X)$, is a [[Subspace]] of the [[Norm|normed]] [[Linearity|linear]] space of [[Bounded|bounded]] functions, denoted $(L^{\infty} ([a, b], X), \| \cdot \|_{L^{\infty}})$ ([[L-p Norm (Sup Norm)]]) (Proposition 8.1.5)
+- The set of all step functions, denoted $S([a, b]; X)$, is a [[Subspace]] of $L^{\infty}$ ([[L-p Space]]) (Proposition 8.1.5)
