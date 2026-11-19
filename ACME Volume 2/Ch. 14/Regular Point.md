@@ -8,7 +8,7 @@ $\Omega,\ f: \Omega \to \mathbb R,\ H: \Omega \to \mathbb R^{\mathscr l},\ G : \
 $H \in C^1(\Omega ; \mathbb R^{\mathscr l})$ ([[Continuously Differentiable]])
 $D$ is the [[Derivative]]
 $x \in \mathscr F$ is the candidate for being a regular point
-$\text{rank}$ is the [[Rank]]
+$\text{rank}$ is the [[Unsorted/Rank]]
 ###### Definition
 $x$ is defined as a regular point if 
 $$

@@ -1,5 +1,6 @@
 #Definition 
 ## Intuition
+A function is a diffeomorphism if it is invertible and the inverse is continuously differentiable
 
 ## Technical Details
 ###### Assumptions

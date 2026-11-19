@@ -15,4 +15,4 @@ H = \{ x \in V \mid \langle a,x \rangle = b \}
 $$
 
 ## Key Results
-- a hyper plane is an [[Affine]] set
+- a hyper plane is an [[ACME Volume 2/Ch. 13/Affine]] set

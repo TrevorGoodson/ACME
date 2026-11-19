@@ -7,6 +7,7 @@
 |                         $\mathbb C$ | complex numbers                                                                                                                                                                                                                 |
 |                         $\mathbb F$ | a "field"--it's either $\mathbb R$ or $\mathbb C$. If a proof uses this, it can work for either one. Yes, it's a little silly since $\mathbb R \subset \mathbb C$ and you can always just replace $\mathbb F$ with $\mathbb C$. |
 | $\mathbb M_{m \times n}(\mathbb F)$ | the set of all matrixes that have $m$ rows and $n$ columns, where each element is in $\mathbb F$.                                                                                                                               |
+|            $\mathbb M_n(\mathbb F)$ | the set of all square matrixes ($n$ rows, $n$ columns), where each element is in $\mathbb F$.                                                                                                                                   |
 |                  $\mathscr B(X; Y)$ | is the set of all [[Bounded Linear Transformation]]s from $X$ to $Y$.                                                                                                                                                           |
 |                          $C^k(X;Y)$ | Is the set of all functions that are [[Continuously Differentiable\|k-continously differentiable]] from $X$ to $Y$                                                                                                              |
 
@@ -28,9 +29,7 @@
 | -----------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | $\langle \cdot, \cdot \rangle$ | [[Inner Product]]                                                                                                                                                                  |
 |                  $\| \cdot \|$ | [[Norm]]                                                                                                                                                                           |
-|                $\vert A \vert$ | is the absolute value of $A$ (if $A$ is a scalar) or it is the [[Determinant]] of $A$ (if $A$ is a matrix)                                                                         |
-|                    $(\cdot)^T$ | [[Transpose]]                                                                                                                                                                      |
-|                    $(\cdot)^H$ | [[Hermitian]]                                                                                                                                                                      |
+|                $\vert A \vert$ | is the absolute value of $A$ (if $A$ is a scalar)                                                                                                                                  |
 |                       $\bar X$ | It's the [[Complex Conjugate]], or just used to make a new symbol (probably to indicate that $\bar X$ is linked to $X$, but are different). This one is heavily context dependent. |
 |                $\text{argmin}$ | [[Argument Minimizer]]                                                                                                                                                             |
 |                $\text{argmax}$ | [[Argument Maximizer]]                                                                                                                                                             |
@@ -39,4 +38,19 @@
 |                $\mathscr R(f)$ | the [[Image]] of $f$ (stands for "range")                                                                                                                                          |
 |                $\mathcal R(c)$ | the real part of a complex number, $c$                                                                                                                                             |
 
-
+#### Matrices
+| Symbol                                     | Use                                                                                      |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| $\vert \cdot \vert$ or $\text{det}(\cdot)$ | [[Determinant]]                                                                          |
+| $\| \cdot \|$                              | Usually the [[Induced Matrix Norm (Operator Norm)]] but can also be just [[Matrix Norm]] |
+| $(\cdot)^T$                                | [[Transpose]]                                                                            |
+| $(\cdot)^H$                                | [[Hermitian]]                                                                            |
+| $\mathscr R( \cdot )$                      | [[Image]] (stands for "range")                                                           |
+| $\mathscr N(\cdot)$                        | [[Kernel (Null Space)]]                                                                  |
+| $\text{tr}(\cdot)$                         | [[Trace]]                                                                                |
+| $\text{ind}(\cdot)$                        | [[Index]]                                                                                |
+| $\rho(\cdot)$                              | [[Resolvent Set]]                                                                        |
+| $\sigma(\cdot)$                            | [[Spectrum]]                                                                             |
+| $R(A,z)$                                   | [[Resolvent]] (for matrix $A$ and complex number $z$)                                    |
+| $\text{adj}(\cdot)$                        | [[Adjugate]]                                                                             |
+| $r(\cdot)$                                 | [[Spectral Radius]]                                                                      |

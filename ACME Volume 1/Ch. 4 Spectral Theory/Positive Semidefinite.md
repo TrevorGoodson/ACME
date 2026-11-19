@@ -8,3 +8,5 @@ $$
 ([[Inner Product]])
 
 Not to be confused with [[Positive Definite]]
+
+A positive semidefinite matrix is [[Hermitian]] and [[Normal]]

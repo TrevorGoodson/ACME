@@ -20,7 +20,7 @@ A norm, denoted $\| \cdot \|$, is a map from $V$ to $\mathbb R$ defined by the f
 Called an Induced norm, defined in [[Bounded Linear Transformation]]
 
 ### Matrices
-Called an induced norm, defined in [[Induced Matrix Norm]]
+Called an induced norm, defined in [[Induced Matrix Norm (Operator Norm)]]
 
 ### Matrix Norm
 Definition 3.5.15

@@ -1,0 +1,1 @@
+$(\cdot)^{-1}$ is the [[Inverse]]
