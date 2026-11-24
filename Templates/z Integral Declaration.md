@@ -1,0 +1,1 @@
+$\int \cdot\ d\cdot$ is the [[Integral]]

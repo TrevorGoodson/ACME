@@ -5,5 +5,3 @@
 ###### Assumptions
 
 ###### Conclusions
-
-## Key Results

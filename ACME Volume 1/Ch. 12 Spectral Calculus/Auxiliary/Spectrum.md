@@ -1,4 +1,4 @@
-#Definition Definition 12.3.1
+#Definition Definition 12.3.1, Definition 4.1.1
 ## Intuition
 
 ## Technical Details
@@ -11,3 +11,4 @@ The spectrum of $A$, denoted $\sigma(A)$, is defined to be the compliment of the
 
 ## Key Results
 - It is non-empty (Corollary 12.3.12)
+- It is the set of eigenvectors (note: this is not true in infinite dimensions)

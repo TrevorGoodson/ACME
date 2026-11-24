@@ -4,6 +4,7 @@
 |                         $\mathbb N$ | natural numbers ($0$ is not included)                                                                                                                                                                                           |
 |                         $\mathbb Z$ | integers                                                                                                                                                                                                                        |
 |                         $\mathbb R$ | real numbers                                                                                                                                                                                                                    |
+|                       $\mathbb R^+$ | Non-negative real numbers (positives plus zero)                                                                                                                                                                                 |
 |                         $\mathbb C$ | complex numbers                                                                                                                                                                                                                 |
 |                         $\mathbb F$ | a "field"--it's either $\mathbb R$ or $\mathbb C$. If a proof uses this, it can work for either one. Yes, it's a little silly since $\mathbb R \subset \mathbb C$ and you can always just replace $\mathbb F$ with $\mathbb C$. |
 | $\mathbb M_{m \times n}(\mathbb F)$ | the set of all matrixes that have $m$ rows and $n$ columns, where each element is in $\mathbb F$.                                                                                                                               |
@@ -38,7 +39,7 @@
 |                $\mathscr R(f)$ | the [[Image]] of $f$ (stands for "range")                                                                                                                                          |
 |                $\mathcal R(c)$ | the real part of a complex number, $c$                                                                                                                                             |
 
-#### Matrices
+#### Matrix Functions
 | Symbol                                     | Use                                                                                      |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | $\vert \cdot \vert$ or $\text{det}(\cdot)$ | [[Determinant]]                                                                          |
@@ -54,3 +55,11 @@
 | $R(A,z)$                                   | [[Resolvent]] (for matrix $A$ and complex number $z$)                                    |
 | $\text{adj}(\cdot)$                        | [[Adjugate]]                                                                             |
 | $r(\cdot)$                                 | [[Spectral Radius]]                                                                      |
+| $I$                                        | The identity matrix                                                                      |
+
+#### Linear Algebra
+| Symbol                           | Use                                         |
+| -------------------------------- | ------------------------------------------- |
+| $\preceq, \succeq, \prec, \succ$ | Component-wise inequality                   |
+| $\lambda$                        | An [[Eigenvalue]]                           |
+| $m_\lambda$                      | The [[Algebraic Multiplicity]] of $\lambda$ |

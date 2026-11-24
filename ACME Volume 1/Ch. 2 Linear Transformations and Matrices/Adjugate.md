@@ -13,3 +13,9 @@ c_{ij} = (-1)^{i+j}M_{ij}
 $$
 
 ## Key Results
+#### Cramer's Rule
+$\text{det}$ is the determinant, $(\cdot)^{-1}$ is the [[Inverse]]: 
+$$
+A^{-1} = \frac{\text{adj}(A)}{\text{det}(A)}
+$$
+(Corollary 2.9.24)

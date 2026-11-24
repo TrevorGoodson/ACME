@@ -1,6 +1,6 @@
 #Definition 
 ## Intuition
-An operator that maps some of the domain to 0, some to itself, and the rest to either of the first groups.
+A linear operator that maps some of the domain to 0, some to itself, and the rest to either of the first groups.
 
 ## Technical Details
 ###### Assumptions
@@ -13,5 +13,9 @@ $$
 P^2 = P
 $$
 ## Key Results
-- If a projection is not an [[Orthogonal Projection]], it can be called an oblique projection. A projection is orthogonal
-- $V = \mathscr R(P) \oplus \mathscr N(P)$ ([[Image]], [[Kernel (Null Space)]])(Theorem 12.1.4)
+#### Orthogonal vs Oblique
+If a projection is not an [[Orthogonal Projection]], it can be called an oblique projection
+
+#### Decomposition of the vector space
+$V = \mathscr R(P) \oplus \mathscr N(P)$
+([[Image]], [[Kernel (Null Space)]])(Theorem 12.1.4)

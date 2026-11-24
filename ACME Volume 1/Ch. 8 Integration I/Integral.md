@@ -1,0 +1,1 @@
+lots of different definitions depending on the domain of the function

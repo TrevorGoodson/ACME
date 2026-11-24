@@ -1,0 +1,1 @@
+$\det(\cdot)$ is the [[Determinant]]

@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aadb05d50bddedd",
+            "id": "afa9f45fd3dcb66a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary/Spectral Radius.md",
+                "file": "ACME Volume 2/Ch. 14/Non-Linear Constrained Minimization Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spectral Radius"
+              "title": "Non-Linear Constrained Minimization Problem"
+            }
+          },
+          {
+            "id": "951e1a575fcf6541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACME Volume 1/Ch. 11 Complex Analysis/Cauchy's Integral Formula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cauchy's Integral Formula"
             }
           }
         ]
@@ -55,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orthonormal",
+                "query": "nil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.16668701171875,
-    "collapsed": true
+    "width": 276.8333435058594
   },
   "right": {
     "id": "859f2ffc56ff815e",
@@ -189,35 +202,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "2aadb05d50bddedd",
+  "active": "afa9f45fd3dcb66a",
   "lastOpenFiles": [
-    "Symbol Index.md",
-    "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary/Spectral Radius.md",
-    "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary/Spectrum.md",
-    "ACME Volume 1/Ch. 2 Linear Transformations and Matrices/Adjugate.md",
-    "Templates/Theorem.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Induced Matrix Norm (Operator Norm).md",
-    "ACME Volume 1/Ch. 5 Metric Space Topology/Neumann Series.md",
+    "ACME Volume 2/Ch. 14/Untitled.md",
+    "ACME Volume 2/Ch. 14/Non-Linear Constrained Minimization Problem.md",
+    "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary/Eigennilpotent.md",
     "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary/Resolvent.md",
-    "Templates/z Inverse Declaration.md",
-    "ACME Volume 1/Ch. 2 Linear Transformations and Matrices/Inverse.md",
-    "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary/Resolvent Set.md",
-    "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary",
-    "Templates/z Square Matrix Declaration.md",
-    "ACME Volume 1/Ch. 12 Spectral Calculus/Index.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Matrix Norm.md",
-    "ACME Volume 1/Ch. 4 Spectral Theory/Nilpotent.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Orthogonal.md",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Cauchy's Integral Formula.md",
     "ACME Volume 1/Ch. 12 Spectral Calculus/Projection.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Inner Product.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Pythagorean Theorem.md",
-    "ACME Volume 1/Ch. 1 Abstract Vector Spaces/Sum of Sets.md",
-    "ACME Volume 1/Ch. 1 Abstract Vector Spaces/Direct Sum.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Orthogonal Projection.md",
-    "ACME Volume 1/Ch. 3 Inner Product Spaces/Orthonormal.md",
-    "ACME Volume 1/Orthonormal.md",
-    "ACME Volume 1/Ch. 2 Linear Transformations and Matrices/Trace.md",
-    "ACME Volume 1/Ch. 2 Linear Transformations and Matrices/Kernel (Null Space).md",
+    "ACME Volume 1/Ch. 12 Spectral Calculus/Spectral Projection (Eigenprojection).md",
+    "Symbol Index.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Algebraic Multiplicity.md",
+    "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary/Resolvent Set.md",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Auxiliary/Lemma 11.3.5.md",
+    "Templates/Theorem.md",
+    "Templates/z Integral Declaration.md",
+    "Templates/z Determinant Declaration.md",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Cauchy-Goursat Theorem.md",
+    "ACME Volume 1/Ch. 12 Spectral Calculus/Spectral Decomposition.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Nilpotent.md",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Contour.md",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Residue.md",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Laurent Expansion.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Auxiliary/Eigenbasis.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Auxiliary/Jordan Canonical Form.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Auxiliary/Schur Form.md",
+    "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary/Spectrum.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Characteristic Polynomial.md",
+    "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary/Meromorphic.md",
+    "ACME Volume 1/Ch. 4 Spectral Theory/Auxiliary",
+    "ACME Volume 1/Ch. 11 Complex Analysis/Auxiliary",
+    "ACME Volume 1/Ch. 12 Spectral Calculus/Auxiliary",
     "ACME Volume 2/Ch. 15 Complex Analysis ad Optimization",
     "ACME Volume 1/Ch. 2 Linear Transformations and Matrices",
     "ACME Volume 1/Ch. 12 Spectral Calculus",
@@ -225,8 +240,6 @@
     "ACME Volume 1/Ch. 10 Calculus on Manifolds",
     "ACME Volume 1/Ch. 11 Complex Analysis",
     "Math 341/Unsorted",
-    "Math 290/Unsorted",
-    "ACME Volume 2/Ch. 12 Unconstrained Optimization/Untitled",
     "Untitled.canvas"
   ]
 }

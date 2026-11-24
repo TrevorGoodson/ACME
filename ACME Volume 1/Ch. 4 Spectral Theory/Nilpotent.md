@@ -12,3 +12,16 @@ A^k = 0
 $$
 
 ## Key Results
+
+---
+# Order
+#Definition Remark 12.6.1
+## Intuition
+The value $k$ at which $A^k = 0$
+
+## Technical Details
+###### Assumptions
+
+###### Definition
+
+## Key Results
